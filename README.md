@@ -8,3 +8,10 @@ Give a summary description of Four design patterns that you choose from the foll
 - Write a short summary for each of the four patterns, about half a page for each pattern (rather less than more). 
 
 > Do not add diagrams, and do not try to give a complete description of the patterns as found in the books. Rather think of how you would explain the essential ideas of these patterns in a few sentences to a colleague while drinking coffee.
+
+
+Adapter :
+Adapter is a design pattern type which allows two incompatible classes to work together by acting as a bridge. This basically converts the interface of one class in line with the expectation of the client's interface.
+Advantages :
+  1. Easy extension and reusage of existing code
+  2. Modifying only the adapter class is sufficient
