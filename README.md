@@ -53,6 +53,7 @@ MEDIATOR:
 --> Advantages:
   1. Provides he benefit of loose coupling
   2. Faster Communication
+ 
 --> Disadvantages:
   1. Possibility of increase in code complexity
 
