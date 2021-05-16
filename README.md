@@ -11,6 +11,7 @@ Give a summary description of Four design patterns that you choose from the foll
 
 
 ADAPTER:
+
 --> Short Summary :
   Adapter is a design pattern type which allows two incompatible classes to work together by acting as a bridge. This basically converts the interface of one class in line with the expectation of the client's interface.
 --> What kind of problem(s) you can solve with that pattern and when you use it, maybe with a short example?
